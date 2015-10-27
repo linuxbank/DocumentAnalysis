@@ -1,0 +1,22 @@
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\bin\Debug\DocumentAnalysis.exe
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\bin\Debug\DocumentAnalysis.pdb
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.Form1.resources
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.Properties.Resources.resources
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.csproj.GenerateResource.Cache
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.exe
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.pdb
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.exe
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.pdb
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\DocumentAnalysis.exe
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\DocumentAnalysis.pdb
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.Form1.resources
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.Properties.Resources.resources
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.csproj.GenerateResource.Cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Debug\DocumentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\DocumentAnalysis.exe.config
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.Imaging.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.Math.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.Imaging.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Debug\AForge.Math.xml

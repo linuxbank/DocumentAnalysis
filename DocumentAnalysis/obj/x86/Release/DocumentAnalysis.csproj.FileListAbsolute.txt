@@ -1,0 +1,22 @@
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\bin\Release\DocumentAnalysis.exe
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\bin\Release\DocumentAnalysis.pdb
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.Form1.resources
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.Properties.Resources.resources
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.csproj.GenerateResource.Cache
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.exe
+C:\Users\pper\AppData\Local\Temporary Projects\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.pdb
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\DocumentAnalysis.exe
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\DocumentAnalysis.pdb
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.Form1.resources
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.Properties.Resources.resources
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.csproj.GenerateResource.Cache
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.exe
+C:\Users\pper\documents\visual studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.pdb
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\DocumentAnalysis.exe.config
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\Tesseract.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\AForge.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\AForge.Imaging.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\AForge.Math.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\AForge.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\Release\Saraff.Twain.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x86\Release\DocumentAnalysis.csprojResolveAssemblyReference.cache

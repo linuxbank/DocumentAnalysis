@@ -1,0 +1,16 @@
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\DocumentAnalysis.exe.config
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\DocumentAnalysis.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\DocumentAnalysis.pdb
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.Imaging.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\Tesseract.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.Math.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.Imaging.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\bin\x64\Release\AForge.Math.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.Form1.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.Properties.Resources.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.csproj.GenerateResource.Cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\DocumentAnalysis\DocumentAnalysis\obj\x64\Release\DocumentAnalysis.pdb
